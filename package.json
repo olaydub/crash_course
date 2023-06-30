@@ -1,0 +1,26 @@
+{
+  "name": "crash_course",
+  "version": "1.0.0",
+  "description": "Node crash course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "olaydub",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/olaydub/crash_course.git"
+  },
+  "bugs": {
+    "url": "https://github.com/olaydub/crash_course/issues"
+  },
+  "homepage": "https://github.com/olaydub/crash_course#readme",
+  "dependencies": {
+    "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.14.9"
+  }
+}
